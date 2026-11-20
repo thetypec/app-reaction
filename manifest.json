@@ -1,0 +1,18 @@
+{
+	"name": "Тренировка реакции: Контурные фигуры",
+	"short_name": "Реакция",
+	"description": "Тренажёр скорости реакции и торможения Go/No-Go",
+	"start_url": "./index.html",
+	"display": "standalone",
+	"orientation": "portrait",
+	"background_color": "#1e1e2e",
+	"theme_color": "#1e1e2e",
+	"icons": [
+		{
+			"src": "icon.svg",
+			"sizes": "any",
+			"type": "image/svg+xml",
+			"purpose": "any maskable"
+		}
+	]
+}
